@@ -113,7 +113,8 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 
 ### Рисунок 1.2. Сеть 10BaseT/100BaseTX
 
-![Рисунок 1.2](img/img2.jpg)
+<img width="683" height="205" alt="image" src="https://github.com/user-attachments/assets/26dccab1-1a25-4707-9ab6-8c84f180b11a" />
+
 
 *Описание:*
 - *а) Топология «звезда»: компьютеры подключены к концентратору в центре.*
@@ -132,7 +133,8 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 
 ### Рисунок 1.3. Интерфейсные кабели Ethernet
 
-![Рисунок 1.3](img/img3.jpg)
+<img width="587" height="177" alt="image" src="https://github.com/user-attachments/assets/6c25a7e1-ce75-4633-b77a-6f3796664319" />
+
 
 *Описание:*
 - *а) «Прямой» кабель: жилы подключены одинаково с обоих концов.*
@@ -163,7 +165,8 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 
 ### Рисунок 1.4. Гальваническая развязка
 
-![Рисунок 1.4](img/img4.jpg)
+<img width="222" height="135" alt="image" src="https://github.com/user-attachments/assets/27b1e462-6b25-4a4c-b478-44e4f67e3c19" />
+
 
 *Описание: Схема гальванической развязки сетевого адаптера, показывающая разделение цепей приемника и передатчика.*
 
@@ -177,7 +180,8 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 
 ### Рисунок 1.5. Обжимной инструмент для разделки UTP-кабеля
 
-![Рисунок 1.5](img/img5.jpg)
+<img width="560" height="243" alt="image" src="https://github.com/user-attachments/assets/979231e6-cfdd-4e24-bc90-5d209d18462c" />
+
 
 *Описание:*
 - *а) Обжимной инструмент (кримпер) для разделки UTP-кабеля. На инструменте имеется специальный нож и ограничитель длины удаляемой оболочки.*
@@ -193,7 +197,8 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 
 ### Рисунок 1.6. Варианты заделки проводов
 
-![Рисунок 1.6](img/img6.jpg)
+<img width="514" height="481" alt="image" src="https://github.com/user-attachments/assets/d952b941-c77a-4265-9674-6977e411184b" />
+
 
 *Описание: Варианты заделки проводов для «прямого» кабеля:*
 - *Схема 568A*
@@ -207,7 +212,8 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 
 ### Рисунок 1.7. Порядок обжима вилки
 
-![Рисунок 1.7](img/img7.jpg)
+<img width="289" height="249" alt="image" src="https://github.com/user-attachments/assets/226c9b06-41ed-49ee-b850-0c48f63133d0" />
+
 
 *Описание: Порядок обжима вилки RJ-45 с использованием обжимного инструмента.*
 
@@ -224,7 +230,8 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 
 ### Рисунок 1.8. Варианты монтажа для перекрестного кабеля
 
-![Рисунок 1.8](img/img8.jpg)
+<img width="591" height="534" alt="image" src="https://github.com/user-attachments/assets/60bbe8a2-acd5-4cc7-846b-8a5de0069f81" />
+
 
 *Описание: Варианты монтажа для непосредственного соединения двух компьютеров («перекрестный» кабель).*
 
@@ -248,7 +255,8 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 
 ### Рисунок 1.9. Сетевая карта шины данных PCI
 
-![Рисунок 1.9](img/img9.jpg)
+<img width="399" height="271" alt="image" src="https://github.com/user-attachments/assets/2e839d6b-f17e-4bc4-987e-3312deb4d582" />
+
 
 *Описание: Сетевая карта или сетевой адаптер (NIC, Network Interface Card) для шины PCI с разъемом RJ-45.*
 
