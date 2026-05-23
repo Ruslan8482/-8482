@@ -89,7 +89,8 @@ Ethernet и Fast Ethernet применяют один и тот же метод 
 
 ### Рисунок 1.1. Кабель UTP категории 5 и разъем RJ-45
 
-![Рисунок 1.1](img/img1.jpg)
+<img width="703" height="289" alt="image" src="https://github.com/user-attachments/assets/52092106-ddf0-4515-a166-32569e5bbe2b" />
+
 
 *Описание: На рисунке слева показан кабель UTP категории 5 с 8 жилами. Справа изображен разъем RJ-45 с указанием вилки (plug) и розетки (jack).*
 
