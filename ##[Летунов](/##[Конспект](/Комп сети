@@ -10,3 +10,32 @@ $ mkdir Hobby user@let:~/8482/Shegolev/Lab8/Info $ cd Hobby user@let:~/8482/Sheg
 $ mkdir C1 mkuser@let:~/8482/Shegolev/Lab8/Info/Hobby $ mkdir C2
 $ mkdir C1 mkuser@let:~/8482/Shegolev/Lab8/Info/Hobby $ сd ../..
 $ mkdir C1 mkuser@let:~/8482/Shegolev/Lab8 $ cd A2
+$ mkdir C1 mkuser@let:~/8482/Shegolev/Lab8/A2 $ mkdir B1
+$ mkdir C1 mkuser@let:~/8482/Shegolev/Lab8/A2 $ cd A1
+$ mkdir C1 mkuser@let:~/8482/Shegolev/Lab8/A1 $ mkdir B2
+cd ~/Temp
+mkdir -p Lab8/Info/Personal Lab8/Info/University Lab8/Info/Hobby/C1 Lab8/Info/Hobby/C2 Lab8/A2/B1 Lab8/A1/B2
+cd Lab8
+mkdir A2/B4 A2/B5
+rmdir A2/B2 2>/dev/null
+echo "Щеголев Руслан Алексеевич" > Info/Personal/Name.txt
+echo "12.06.2008" > Info/Personal/Date.txt
+echo "Школа №19" > Info/Personal/School.txt
+echo "МФЮА Информационные системы и програмирование" > Info/University/Name.txt
+echo "4.0" > Info/University/Mark.txt
+echo "Компьютерные игры,машины" > Info/Hobby/hobby.txt
+cp Info/Hobby/hobby.txt A2/Lab_8.txt
+cp A2/Lab_8.txt A2/copy_Lab_8.txt
+rm A2/copy_Lab_8.txt
+clear
+cat Info/Personal/Name.txt
+cat Info/Personal/Date.txt
+cat Info/Personal/School.txt
+ls Info/Personal | sort
+cat Info/Personal/* > all.txt
+cat all.txt
+echo "2008" >> all.txt
+cat all.txt
+cp all.txt A1/
+rm -rf A1 A2
+export PS1="||| \$ "
